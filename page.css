@@ -1,0 +1,34 @@
+body{ background-color: black ;
+    margin: 0;
+    padding: 0;
+
+
+
+}
+.Cred{ 
+    background-color: crimson;
+    float: right;
+    overflow: hidden;
+   
+}
+.Cred a {
+    color: rgb(40, 84, 228);
+    padding: 14px 18px;
+    font-size: 25px;
+    
+}
+.Cred a:hover{
+    background-color: darkgrey;
+    color: black;
+}
+.input h1{
+    color: blanchedalmond;
+
+}
+
+.input{
+    position: absolute;
+    top: 8em; right: 40em;
+
+    
+}
